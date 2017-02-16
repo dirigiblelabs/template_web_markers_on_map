@@ -4,7 +4,9 @@
     "image":"ui-for-markers-on-map.png",
     "sources":[{
         "name":"ui-for-markers-on-map-entity.html",
-        "action":"generate"
+        "rootFolder":"WebContent",
+        "action":"generate",
+        "rename":"%s"
     }],
     "parameters":[{
         "name":"templateType",
