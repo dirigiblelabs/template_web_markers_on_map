@@ -1,1 +1,8 @@
-{"guid":"template_web_markers_on_map","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_web_markers_on_map.git"}}
+{
+    "guid":"template_web_markers_on_map",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_web_markers_on_map.git"
+    }
+}
